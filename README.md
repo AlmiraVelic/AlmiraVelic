@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Almira</h1>
 <h3 align="center">A passionate IT Student from Klagenfurt (Austria)</h3>
 
-- 🔭 I’m currently working on **Semper Tibi**. THis is my Master Thesis project for an Android App, that helps people in daily life by managing their mental health.
+- 🔭 I’m currently working on **Semper Tibi**. This is my Master Thesis project for an Android App, that helps people in daily life by managing their mental health.
 
 - 🌱 I’m currently learning **Kotlin**
 
